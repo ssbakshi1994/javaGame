@@ -1,3 +1,2 @@
-This is a version of my final project for my OOP java course I took in Summer of 2015. This is probably the largest program I've had to write 
-completely independently for a course, as most of the time some amount of code is given to work off of. Unfortunately I can't display any of 
-the projects I worked on over this summer with my internship, so this is the biggest self-produced project that I have to show.
+This is a version of my final project for my OOP java course I took in Summer of 2015. This is probably the largest program I've had to
+write completely independently for a course, as most of the time some amount of code is given to work off of. Unfortunately I can't display any of the projects I worked on over this summer with my internship, so this is the biggest self-produced project that I have to show.
